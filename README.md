@@ -1,7 +1,5 @@
 # sisteme_recomandare-lab02
 
-# Lab 02 – Recommender Systems
-
 ## Dataset
 
 Pentru acest laborator am ales un dataset cu laptopuri de pe Kaggle.
@@ -14,20 +12,21 @@ Dataset-ul contine **1303 laptopuri** si informatii despre producator, model, pr
 
 Am definit urmatoarele proprietati in Recombee:
 
-| Proprietate | Tip |
-|---|---|
-| Company | string |
-| Product | string |
-| TypeName | string |
-| Inches | double |
-| ScreenResolution | string |
-| Cpu | string |
-| Ram | string |
-| Memory | string |
-| Gpu | string |
-| OpSys | string |
-| Weight | string |
-| Price_euros | double |
+| Proprietate | Tip | Descriere |
+|---|---|---|
+| Company | string | Producatorul laptopului |
+| Product | string | Modelul laptopului |
+| TypeName | string | Tipul laptopului (Notebook, Ultrabook etc.) |
+| Inches | double | Dimensiunea ecranului in inch |
+| ScreenResolution | string | Rezolutia ecranului |
+| Cpu | string | Modelul procesorului |
+| Ram | string | Capacitatea memoriei RAM |
+| Memory | string | Tipul si capacitatea stocarii |
+| Gpu | string | Modelul placii video |
+| OpSys | string | Sistemul de operare |
+| Weight | string | Greutatea laptopului |
+| Price_euros | double | Pretul laptopului in euro |
+
 
 ## Rezultat
 
