@@ -1,3 +1,8 @@
+
+# sisteme_recomandare-lab03
+Am folosit scriptul recombee_items.py pentru a încărca cele 1303 laptopuri în Recombee, utilizând proprietățile definite la laboratorul 2.
+
+Produsele au fost trimise în loturi de câte 100, folosind Batch și SetItemValues.
 # sisteme_recomandare-lab02
 
 ## Dataset
